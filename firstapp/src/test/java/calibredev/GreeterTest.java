@@ -15,7 +15,7 @@ public class GreeterTest
     private Greeter greet = new Greeter();
 
     /**
-     * Test to see if the object greet contains the world 'Hello'
+     * Test to see if the object greet contains the word 'Hello'
      */
     @Test
     public void greeterSaysHello(){
