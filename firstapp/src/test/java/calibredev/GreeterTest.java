@@ -1,7 +1,7 @@
 package calibredev;
 /**
- * assertThat is used to check the specified value matches the expected value 
  * JUnit is a unit testing framework 
+ * assertThat is used to check the specified value matches the expected value 
  */
 import static org.junit.Assert.assertThat;
 import static org.hamcrest.CoreMatchers.containsString;
